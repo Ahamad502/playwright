@@ -2,7 +2,7 @@ Playwright function locator
 ==========================
 used to perform operation on the websites
 1.click() - used to click on the element(button ,link, checkbox , radio button,menu items ,image)
-Automatically waits for the elements should be visble and enable
+            Automatically waits for the elements should be visble and enable
 2.fill() - used to enter any value in the textbox or in amy field or multi line <Textarea>
 can be used to handle multi line text box like by `` or we can use by
 next line
